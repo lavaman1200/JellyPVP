@@ -19,6 +19,11 @@ Reason: Realms Advertisement
 Description: Asking users to join their Minecraft Realm.
 Warning: Please do not advertise Realms on the server.
 
+Reason: Speaking in a language other than English.
+Description: ^^
+Warning: Please speak in English only.
+
+
 10 MINUTE MUTE:
 
 Reason: Indirect Advertisement
@@ -28,6 +33,7 @@ Warning: Please don't talk about any other servers than JELLYPVP.
 Reason: Bypassing Chat Filter
 Description: Overtly bypassing the chat filter (swearing with spaces in the middle, or using (dot) to advertise).
 Warning: Please stick to the Chat Rules.
+EXTRA: Using abbreviations to imitate swearing (wtf, tf, etc.) is not punishable.
 
 PERMANENT MUTE:
 
